@@ -1,6 +1,6 @@
 ## MongoDBDemo 
 
-Esta es una demo con un ejemplo sencillo de una conexion a la base de datos MongoDB
+Esta es una demo con un ejemplo sencillo de una conexion a la base de datos MongoDB.
 Esta hecha en Maven. 
 La estructura consiste en Problemas que tienen un titulo, una descripcion y el id de la categoria a la que pertenecen. 
 - Cada problema se almacena en una determinada categoria. 
